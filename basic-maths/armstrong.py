@@ -7,4 +7,4 @@ def armstrong(num):
     return genNum == num
 
 
-print(armstrong(322))
+print(armstrong(324))
