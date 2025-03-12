@@ -6,4 +6,5 @@ def armstrong(num):
         genNum = genNum + i**len(numStr)
     return genNum == num
 
+
 print(armstrong(372))
