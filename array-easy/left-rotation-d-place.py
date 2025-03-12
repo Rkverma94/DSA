@@ -10,10 +10,10 @@ def rot_k_ele(arr, k, side):
         key = k-1
     else:
         key = n-k-1
-
     reverse(arr, 0, key)
     reverse(arr, key+1, n-1)
     reverse(arr, 0, n-1)
+
 arr = [1,2,4,5,6,7]
 rot_k_ele(arr, 3, 'right')
 print(arr)
