@@ -1,3 +1,6 @@
+'''
+    To find the arm strong number ? true : false
+'''
 def armstrong(num):
     numStr = str(num)
     genNum = 0
