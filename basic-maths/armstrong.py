@@ -1,5 +1,6 @@
 '''
     To find the arm strong number ? true : false
+    timecomplexity : O(n)
 '''
 def armstrong(num):
     numStr = str(num)
