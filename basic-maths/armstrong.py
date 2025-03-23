@@ -11,3 +11,4 @@ def armstrong(num):
         genNum = genNum + i**len(numStr)
     return genNum == num
 print(armstrong(438))
+#finding merge conflict using vscode extension
