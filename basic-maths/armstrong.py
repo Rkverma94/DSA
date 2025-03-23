@@ -10,4 +10,4 @@ def armstrong(num):
         i = int(i)
         genNum = genNum + i**len(numStr)
     return genNum == num
-print(armstrong(893))
+print(armstrong(897))
