@@ -12,3 +12,4 @@ def armstrong(num):
     return genNum == num
 print(armstrong(438))
 # new comment
+
