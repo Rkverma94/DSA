@@ -11,4 +11,4 @@ def armstrong(num):
         genNum = genNum + i**len(numStr)
     return genNum == num
     
-print(armstrong(824))
+print(armstrong(84))
